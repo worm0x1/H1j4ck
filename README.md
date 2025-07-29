@@ -11,7 +11,7 @@ This educational project shows how a malicious browser extension could be used b
 * **Login credentials (username/password)**
 * **Session cookies**
 
-This captured information is sent to the attacker's **Telegram**. The session cookies allow an attacker to bypass two-factor authentication, potentially giving them access to the user’s account, even if they are not logged in.
+This captured information is sent to the attacker's **Telegram**. The session cookies allow an attacker to bypass **two-factor** authentication, potentially giving them access to the user’s account, even if they are not logged in.
 
 **📸 Data Reception on Telegram**
 
