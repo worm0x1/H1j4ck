@@ -22,13 +22,10 @@ This captured information is sent to the attacker's **Telegram**. The session co
 
 ---
 
-## 📚 Setup Guide
-
-1. **Get Your Telegram Bot Token** and **Chat ID** by following this tutorial:
+## 📚 Bot token & chatid
 
 > https://youtube.com/shorts/ZvCdiTS-uGw
 
 ---
 
-> **⚠️ Warning:** This project is **educational only**. Do **not** engage in unauthorized access or use for malicious purposes. **Always obtain explicit consent** before performing any s
-ecurity testing.
+> **⚠️ Warning:** This project is **educational only**. Do **not** engage in unauthorized access or use for malicious purposes. **Always obtain explicit consent** before performing any security testing.
