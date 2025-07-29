@@ -69,8 +69,8 @@ This captured information is sent to the attacker's **Telegram**. The session co
 **Images to set up the extension ⚙️**
 
 ![fast imge](https://i.postimg.cc/nhGs6Zkj/67eaca6805a0d45ad42c8138-67d90d932e355061112a88f2-67b448c603c950977c18aceb-Main-element-for-In.png)
-![second image](https://i.postimg.cc/BbnN1MnN/67eaca6805a0d45ad42c80eb-67d90d922e355061112a8871-67b4490e9e89a3400153bdb3-Extension-refresh-
-but.png)
+
+![second image](https://i.postimg.cc/BbnN1MnN/67eaca6805a0d45ad42c80eb-67d90d922e355061112a8871-67b4490e9e89a3400153bdb3-Extension-refresh-but.png)
 
 ---
 
