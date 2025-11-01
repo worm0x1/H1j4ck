@@ -1,12 +1,12 @@
 ## 👨🏻‍💻️ H1j4ck
 
-This project is designed to demonstrate how malicious browser extensions can be used for educational purposes to understand security vulnerabilities and raise awareness on how hackers can exploit browser features. The goal is to educate users on how malicious extensions can be misused and how to protect against them.
+This educational **open-source** project is designed to demonstrate how malicious browser extensions can be used for educational purposes to understand security **vulnerabilities** and **raise** awareness on how hackers can exploit browser features. The goal is to educate users on how malicious extensions can be **misused** and how to protect against them.
 
 ---
 
 ## 🧠 How It Works
 
-This educational project shows how a malicious browser extension could be used by attackers to gain unauthorized access to sensitive data, such as login credentials and session cookies. The extension, when installed in a user's browser, secretly monitors their login activities on websites. If a user logs in, it captures:
+This **educational** project shows how a malicious browser extension could be used by attackers to gain unauthorized access to sensitive data, such as **login credentials** and **session cookies**. The extension, when installed in a user's browser, secretly monitors their login activities on websites. If a user logs in, it captures:
 
 * **Login credentials (username/password)**
 * **Session cookies**
